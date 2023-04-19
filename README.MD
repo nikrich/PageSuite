@@ -23,4 +23,7 @@
 14. sudo sdkmanager --licenses
 15. sudo apt install gradle
 
+## Android Studio
+Also do this https://stackoverflow.com/questions/72078857/fix-android-studio-react-native-wsl-wont-launch-emulator-with-more-errors
+
 ## Build Module
